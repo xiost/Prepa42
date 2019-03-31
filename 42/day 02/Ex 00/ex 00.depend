@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553978606 source:c:\users\poiss\documents\projet codeblocks\day 002\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553980779 source:d:\42\day 02\ex 00\main.c
+	<stdio.h>
+	<stdlib.h>
+
